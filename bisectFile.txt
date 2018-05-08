@@ -2,4 +2,7 @@ More Good stuff
 More good things is cool
 cool things yay :) 
 uh-oh not good here :(
+
+bad var = not good; 
+
 Good Start
